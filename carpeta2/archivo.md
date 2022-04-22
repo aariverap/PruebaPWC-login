@@ -1,7 +1,7 @@
 ---
-Título: NLP - CCELA
+Título: el titulo
 Fecha: 2022-03-12
 Autor:
-- Andrés Rivera
-Etiquetas: natural language processing, corpus linguistics, annotation, word embedding 
+- natalia
+Etiquetas: naxxxxcorpus linguistics, annotation, word embedding 
 ---
